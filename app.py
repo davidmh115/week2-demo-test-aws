@@ -1,1 +1,2 @@
-print("Hello, this is a Demo of building a project on GitHub with AWS")
+print("Hello, this is an edited version of the demo")
+
